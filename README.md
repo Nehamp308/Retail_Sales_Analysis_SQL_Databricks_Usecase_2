@@ -12,7 +12,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ## Project Structure
 
-### 1. Data Exploration & Cleaning
+###  Data Exploration & Cleaning
 
 - **Record Count**: Determine the total number of records in the dataset.
 - **Customer Count**: Find out how many unique customers are in the dataset.
@@ -101,7 +101,7 @@ SELECT DISTINCT category
 FROM sql_warehouse.stg.sql_retail_sales_analysis_utf;
 ```
 
-### 2. Data Analysis & Findings
+###  Data Analysis & Findings
 
 The following SQL queries were developed to answer specific business questions:
 
